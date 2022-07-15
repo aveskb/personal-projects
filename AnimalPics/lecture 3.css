@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(214, 161, 96);
+}
+.container{
+    background-color: gray;
+    margin: 5% auto;
+    width: 55%;
+    padding: 30px;
+    border-radius: 10px;
+
+}
+.headingText{
+    color: white;
+    font-size: 200%;
+    text-align: center ;
+    text-transform: uppercase;
+}
+.picture{
+    padding: 20px;
+    border-radius: 30px;
+    opacity: 0.8;
+}
+.picture:hover{
+    opacity: 0.6;
+    transition: (opacity 30s ease-in);
+    transform: scale(1.5)
+    
+    
+}
