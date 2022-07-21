@@ -1,0 +1,26 @@
+body{
+    background-color: #8BDF8F;
+}
+.appleContainer{
+    margin: auto auto;
+    width : fit-content ;
+    display: flex;
+   
+    margin-top: 75px;
+}
+.appleDetails{
+    width : 500px ;
+    background-color: rgb(255, 255, 255);
+    height :  500px ;
+    
+
+}
+.applePic{
+    width : 250px ;
+    background-color: black;
+    height :  450px ;
+    position: relative;
+    left: 225px;
+    top: 25px;
+
+}
