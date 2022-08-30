@@ -1,0 +1,29 @@
+.container {
+	margin-top: 30px;
+}
+
+.registration-form {
+	width: 70vw;
+    
+    margin: auto;
+    align-items: center;
+}
+
+.title {
+	text-align: center;
+
+}
+h2{
+    background-color: #ECEDEF;
+    border: #ECEDEF;
+    border-radius: 0.5rem;
+}
+.content{
+    background-color: antiquewhite;
+    border-color: bisque;
+    border-radius: 0.5rem;
+}
+
+.submit-btn {
+	text-align: center;
+}
